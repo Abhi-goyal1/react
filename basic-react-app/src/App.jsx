@@ -1,13 +1,18 @@
 
 import './App.css'
+// import Product from './product';
+// import './product.css';
+import MsgBox from './msgBox';
 
-let name = "Abhi Goyal";
 
 function App() {
+
  return(
 
   <>
-    <h1>Hii, {name.toUpperCase()}</h1>
+  <MsgBox userName= "abhi" textColor="yellow"/>
+ 
+   
   </>
 
   );
