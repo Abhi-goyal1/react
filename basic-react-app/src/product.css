@@ -1,8 +1,16 @@
-.card{
-    border: 1px solid black;
-    border-radius: 2rem;
-    background-color: black;
+.red{
+    background-color: red;
     color: white;
-    margin: 1rem;
-    float: right;
+}
+.green{
+    background-color: green;
+    color: white;
+}
+.yellow{
+    background-color:yellow;
+    
+}
+.blue{
+    background-color: blue;
+    color: white;
 }
