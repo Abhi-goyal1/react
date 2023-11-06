@@ -1,18 +1,18 @@
 
 import './App.css'
-// import Product from './product';
-// import './product.css';
-import MsgBox from './msgBox';
+// import Counter  from './print';
+import LikeButton from './LikeButton'
+
+
 
 
 function App() {
-
  return(
-
   <>
-  <MsgBox userName= "abhi" textColor="yellow"/>
- 
-   
+
+<LikeButton/>
+  
+
   </>
 
   );
